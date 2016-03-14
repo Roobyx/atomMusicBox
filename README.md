@@ -1,5 +1,8 @@
 # Music Box
 
-Simple and useful embeded ListenVideo.com view
+Stream Music in Atom !
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Simple and useful music panel inside Atom.
+The player embeds ListenVideo.com and has Spotify's music library for free.
+
+![Atom Music Box](https://i.gyazo.com/76b19297101a3165e220ccdeea08864e.jpg)
