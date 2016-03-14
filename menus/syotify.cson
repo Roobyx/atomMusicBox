@@ -1,0 +1,21 @@
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle Spotify Web Player View'
+      'command': 'spotify-view:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Spotify Web Player View'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'spotify-view:toggle'
+        }
+      ]
+    ]
+  }
+]
