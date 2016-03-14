@@ -1,10 +1,10 @@
 {View} = require '../node_modules/atom-space-pen-views'
 
 module.exports =
-class spotyWebPaneView extends View
+class mBoxWebPaneView extends View
   @content: ->
-    @div class:'styleguide padded pane-item native-key-bindings' , =>
-      @div class: 'spotyWeb'
+    @div class:'pane-item native-key-bindings' , =>
+      @div class: 'mBoxViewer'
 
   # Returns an object that can be retrieved when package is activated
   serialize: ->

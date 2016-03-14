@@ -1,19 +1,19 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle Spotify Web Player View'
-      'command': 'spotify-view:toggle'
+      'label': 'Toggle Music Box'
+      'command': 'mBox:toggle'
     }
   ]
 'menu': [
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'Spotify Web Player View'
+      'label': 'Music Box'
       'submenu': [
         {
           'label': 'Toggle'
-          'command': 'spotify-view:toggle'
+          'command': 'mBox:toggle'
         }
       ]
     ]

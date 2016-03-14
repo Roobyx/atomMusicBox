@@ -1,12 +1,12 @@
 {
   "name": "musicBox",
-  "main": "./lib/syotify",
+  "main": "./lib/mBox",
   "version": "0.0.1",
   "description": "Atom embeded music view for listenvideo.com",
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "syotify:toggle"
+    "atom-workspace": "mBox:toggle"
   },
   "repository": "https://github.com/Roobyx/atomMusicBox",
   "license": "MIT",
@@ -107,8 +107,8 @@
   ],
   "extensions": {
 	".coffee": [
-	  "lib\\syotify-view.coffee",
-	  "lib\\syotify.coffee"
+	  "lib\\mBox-view.coffee",
+	  "lib\\mBox.coffee"
 	],
 	".js": [
 	  "node_modules\\atom-space-pen-views\\lib\\main.js",
