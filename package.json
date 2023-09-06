@@ -25,7 +25,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "atom-space-pen-views": "2.1.0",
-    "jquery": "2.1.4",
+    "jquery": "3.5.0",
     "jquery-resizable": "1.0.3"
   },
   "_shasum": "3d3f1b40ff56e6413db9e25ab42e16398eb50267",
@@ -695,7 +695,7 @@
         ],
         "dependencies": {
           "atom-space-pen-views": "2.1.0",
-          "jquery": "2.1.4",
+          "jquery": "3.5.0",
           "jquery-resizable": "1.0.3"
         }
       },
@@ -716,7 +716,7 @@
         ],
         "dependencies": {
           "grim": "^1.0.0",
-          "jquery": "2.1.4",
+          "jquery": "3.5.0",
           "underscore-plus": "1.x"
         }
       },
